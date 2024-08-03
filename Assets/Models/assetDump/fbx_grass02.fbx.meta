@@ -8,8 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: m_grassblade
-    second: {fileID: -3661639628750336703, guid: 9be574a7fa0fd4deeb4b3677637597ef,
-      type: 3}
+    second: {fileID: 2100000, guid: 89d6bcfa7f84946f2af6dc5e0f08b994, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
